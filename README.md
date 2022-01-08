@@ -2,13 +2,13 @@
 
 Personal tool to convert mp4 to mp3 or wav extension using MoviePy module.
 
-### Prerequisites
-
-Here are a few things that need to be installed first:
-
-- Python 3.10.x
-
 ### Installing
+
+Clone :
+
+```bash
+$ git clone https://github.com/mrizkimaulidan/conv.git
+```
 
 Install the required modules.
 
